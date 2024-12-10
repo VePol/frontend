@@ -1,0 +1,11 @@
+/* src/index.css */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    color: #212529;
+}
+
+h1, h2, h3 {
+    color: #333;
+}
