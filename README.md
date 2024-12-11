@@ -29,7 +29,7 @@ The Movie Database Application is a React-based project designed to provide user
     * Cast
     * Plot
     * Responsive Design: The app adapts seamlessly to various screen sizes.
-    * 
+      
 ## Examples of Use
 
 #### Search Functionality:
@@ -51,12 +51,12 @@ Each card includes clickable or visible information about a movie, making it eas
 
 1. Clone the Repository:
 
-  git clone <repository-url>
-  cd <repository-folder>
+  $ git clone <repository-url>
+  $ cd <repository-folder>
 
 2. Install Dependencies:
    
-  npm install
+  $ npm install
 
 3. Set Up Environment Variables:
 * Create a .env file in the root directory.
@@ -65,7 +65,7 @@ REACT_APP_API_URL=<Your Backend API URL>
 
 #### Start the Application:
 
-  npm start
+ $ npm start
 * The app will run on http://localhost:3000.
 
 ## Sources and Acknowledgments
